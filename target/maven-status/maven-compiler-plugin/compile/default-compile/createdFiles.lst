@@ -1,0 +1,8 @@
+com\microservices\client\model\Voiture$VoitureBuilder.class
+com\microservices\client\feign\VoitureFeignClient.class
+com\microservices\client\service\VoitureClientService.class
+com\microservices\client\controller\ClientController.class
+com\microservices\client\config\RestTemplateConfig.class
+com\microservices\client\config\WebClientConfig.class
+com\microservices\client\model\Voiture.class
+com\microservices\client\ServiceClientApplication.class
