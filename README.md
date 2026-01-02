@@ -1,5 +1,7 @@
 # Étude de cas : Clients Synchrones (RestTemplate vs Feign vs WebClient) avec Eureka et Consul
 
+<img width="958" height="471" alt="etude" src="https://github.com/user-attachments/assets/bcf59d53-a1b1-40ad-bbef-42b500138718" />
+
 ## Architecture du Projet
 
 Ce projet compare trois clients HTTP synchrones dans un environnement de microservices :
